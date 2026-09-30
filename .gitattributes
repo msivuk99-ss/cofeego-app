@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
+# Автоматична нормалізація закінчення рядків (LF/CRLF)
+* text=auto
+
+# Позначення бінарних файлів, щоб Git не порівнював їх посимвольно
+*.docx binary
+*.pdf binary
+*.png binary
+*.jpg binary# Auto detect text files and perform LF normalization
 * text=auto

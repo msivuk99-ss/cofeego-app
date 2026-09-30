@@ -1,0 +1,17 @@
+# Системні файли ОС та редакторів
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Локальні конфігурації та секрети
+.env
+*.env
+appsettings.Development.json
+
+# Складені файли розробки (Flutter / Node.js / C#)
+build/
+node_modules/
+bin/
+obj/
+*.user
