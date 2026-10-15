@@ -21,5 +21,7 @@ Authentication: JWT (JSON Web Tokens) + HTTPS (TLS 1.3)[cite: 18].
 
 ### Інтеграції та сервіси
 POS-система: Двостороння інтеграція через REST API з POS-системою кав'ярні (Poster/iiko)[cite: 18].
-Платіжний шлюз: Apple Pay, Google Pay SDK, LiqPay / MonoPay[cite: 18].
+Платіжний шлюз:
+
+ Apple Pay, Google Pay SDK, LiqPay / MonoPay[cite: 18].
 Push-сповіщення: Firebase Cloud Messaging (FCM) / Pusher для сповіщень про стан замовлення[cite: 18].
