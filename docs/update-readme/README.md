@@ -25,3 +25,8 @@ POS-система: Двостороння інтеграція через REST 
 
  Apple Pay, Google Pay SDK, LiqPay / MonoPay[cite: 18].
 Push-сповіщення: Firebase Cloud Messaging (FCM) / Pusher для сповіщень про стан замовлення[cite: 18].
+
+## Використовувані технології
+- **Backend:** C# / ASP.NET Core
+- **Database:** PostgreSQL
+- **Frontend:** React / TypeScript
